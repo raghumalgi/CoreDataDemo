@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  Log In Demo
-//
-//  Created by Rob Percival on 04/07/2016.
-//  Copyright © 2016 Appfish. All rights reserved.
-//
+
 
 import UIKit
 import CoreData
